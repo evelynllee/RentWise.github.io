@@ -83,7 +83,7 @@ nav img{
 .contact{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(https://github.com/evelynllee/RentWise.github.io/blob/main/image/contactphoto.jpeg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(blob/main/image/contactphoto.jpeg);
     background-position: center;
     background-color: cover;
     position: relative;
