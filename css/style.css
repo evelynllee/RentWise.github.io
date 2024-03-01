@@ -103,7 +103,7 @@ label {
     background-color: transparent;
     color: #fff;
     border: 2px dashed #fff;
-    padding: 75px; /* Adjust the padding to make it bigger */
+    padding: 35px; /* Adjust the padding to make it bigger */
     cursor: pointer;
 }
 
