@@ -6,7 +6,7 @@
 .header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(https://github.com/evelynllee/RentWise.github.io/blob/main/image/bk.jpeg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(./image/bk.jpeg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -83,7 +83,7 @@ nav img{
 .contact{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(https://github.com/evelynllee/RentWise.github.io/blob/main/image/contactphoto.jpeg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(./image/contactphoto.jpeg);
     background-position: center;
     background-color: cover;
     position: relative;
@@ -115,7 +115,7 @@ label:hover{
 .about{
     min-height: 25vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(https://github.com/evelynllee/RentWise.github.io/blob/main/image/pic.jpeg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(./image/pic.jpeg);
     background-position: center;
     background-color: cover;
     position: relative;
